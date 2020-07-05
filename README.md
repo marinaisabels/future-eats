@@ -4,9 +4,9 @@ ______
 
 ## Projeto Frontend desenvolvido por Marina Isabel, Danilo Mourelle, Guilherme Galan e Leonardo Crispim 
 - [Linkedin](https://www.linkedin.com/in/marinaisabel/)
-- [Linkedin] (https://www.linkedin.com/in/danilomourelle/)
-- [Linkedin] (https://www.linkedin.com/in/guilherme-galan-2707b580/)
-- [Linkedin](https://www.linkedin.com/in/leonardo-crispim-371a23134/)
+- [Linkedin do Danilo](https://www.linkedin.com/in/danilomourelle/)
+- [Linkedin do Guilherme](https://www.linkedin.com/in/guilherme-galan-2707b580/)
+- [Linkedin do Leonardo](https://www.linkedin.com/in/leonardo-crispim-371a23134/)
 
 ______
 
