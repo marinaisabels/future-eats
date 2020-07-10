@@ -17,7 +17,7 @@ ______
   
   
   
- ![Image](../master/image/ipad-copy.png)
+ ![Image](../master/image/ipad-copy.gif)
                                                                  
                                                                  
                                                                  
