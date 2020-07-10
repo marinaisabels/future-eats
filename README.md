@@ -14,7 +14,15 @@ ______
 
   O Projeto Future Eats foi criado com referências das telas do aplicativo "Uber Eats":
   
-- [Aparência do Projeto] https://app.zeplin.io/project/5dcc566ddc1332bf7fb4f450/dashboard
+  
+  
+  
+ ![Image](../master/image/ipad-copy.png)
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+                                                                 
 - [Regras da API] https://documenter.getpostman.com/view/7549981/SWTEdGtT?version=latest#3203689e-ea05-466a-8a5a-8ebc6c5f271e
 
 
